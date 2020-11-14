@@ -1,6 +1,3 @@
-<div align='center'>
-<img src="images/rejah.png"  width="150" alt="Me" />
-</div>
 <h1 align='center'> REJAH REHIM</h1>
 <h2 align='center' > WebDev | Pentest </h2>
 
