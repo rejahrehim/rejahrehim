@@ -8,15 +8,15 @@ Project Lead <a target="_blank" href="https://securetea.org/">OWASP SecureTea</a
 
 </p>
 <div align='center'>
-<ul >
-    <li style="list-style: none; display: inline; padding-right: 5px; padding-left: 5px; margin-left: 0; margin-right: 8px; border: 1px solid #ece4e4;" class="facebook"><a target="_blank" href="https://www.facebook.com/rejah.rehim">Facebook</a></li>
-    <li style="list-style: none; display: inline;padding-right: 5px; padding-left: 5px; margin-left: 0; margin-right: 8px; border: 1px solid #ece4e4;" ><a target="_blank" href="https://twitter.com/rejah_rehim">Twitter</a></li>
-    <li style="list-style: none; display: inline; padding-right: 5px; padding-left: 5px;margin-left: 0; margin-right: 8px; border: 1px solid #ece4e4;"><a target="_blank" href="https://www.linkedin.com/in/rejah">LinkedIn</a></li>
-    <li style="list-style: none; display: inline; padding-right: 5px; padding-left: 5px;margin-left: 0; margin-right: 8px; border: 1px solid #ece4e4;"><a target="_blank" href="https://addons.mozilla.org/en-US/firefox/user/Rejah">Firefox</a></li>
-    <li style="list-style: none; display: inline; padding-right: 5px; padding-left: 5px;margin-left: 0; margin-right: 8px; border: 1px solid #ece4e4;"><a target="_blank" href="https://pgp.mit.edu/pks/lookup?op=get&search=0x5C1DA49CFE3317A3">GPG Key</a></li>
-    <li style="list-style: none; display: inline; padding-right: 5px; padding-left: 5px; margin-left: 0; margin-right: 8px; border: 1px solid #ece4e4;"><a href="assets/rejah.pub">Pub Key</a></li>
-</ul>
+<a href="https://twitter.com/rejah_rehim"><img height="30" src="https://simpleicons.org/icons/twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rejah"><img height="30" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/rejah.rehim"><img height="30" src="https://simpleicons.org/icons/facebook.svg"></a>&nbsp;&nbsp;
+<a href="https://keybase.io/rejah"><img height="30"  src="https://img.shields.io/keybase/pgp/rejah?label=GPG"></a>&nbsp;&nbsp;
+<a href="https://rejahrehim.com/assets/rejah.pub"><img height="30" src="https://img.shields.io/badge/Pub Key-orange"></a>&nbsp;&nbsp;
+<a href="https://addons.mozilla.org/en-US/firefox/user/Rejah"><img height="30" src="https://simpleicons.org/icons/firefox.svg"></a>
 </div>
+
+
 <p align='center'>
 <a href="https://beaglesecurity.com/blog/" >My Blog &#187;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://rejahrehim.com" id="moreinfo">More info &#187;</a>
 </p>
