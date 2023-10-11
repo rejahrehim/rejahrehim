@@ -1,7 +1,7 @@
 <h1 align='center'> REJAH REHIM</h1>
 <h2 align='center' > WebDev | Pentest </h2>
 
-<p align='center' >Director &amp; Co-Founder at <a target="_blank" href="https://beaglesecurity.com">Beagle Security</a>|&nbsp;
+<p align='center' >Director &amp; Co-Founder at <a target="_blank" href="https://beaglesecurity.com">Beagle Security</a> |&nbsp;
 <a target="_blank" href="https://kerala.owasp.org">OWASP Kerala Chapter</a> Lead, <a href="https://www.amazon.com/author/rejahrehim">Author</a> of "<a target="_blank" href="https://www.amazon.com/Mastering-Python-Penetration-Testing-Rejah-ebook/dp/B01C2XX8XI">Effective Python Penetration Testing</a>" &nbsp;|&nbsp;
 Core maintainer @OWASP <a target="_blank" href="https://github.com/OWASP/wstg">Web Security Testing Guide</a>&nbsp;|&nbsp; <a target="_blank" href="https://www.peerlyst.com/posts/peerlyst-community-ebook-50-influential-devsecops-professionals-peerlyst"> DevSecOps Evangelist</a>,  Developer of PenQ (Security Testing Browser Bundle) &nbsp;|&nbsp;
 Project Lead <a target="_blank" href="https://securetea.org/">OWASP SecureTea</a>, <a target="_blank" href="https://addons.mozilla.org/en-US/firefox/user/6111533/">Mozilla Firefox Add-ons</a> Developer
