@@ -8,7 +8,7 @@ Project Lead <a target="_blank" href="https://securetea.org/">OWASP SecureTea</a
 
 </p>
 <div align='center'>
-<a href="https://twitter.com/rejah_rehim"><img height="30" src="https://simpleicons.org/icons/twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/rejah_rehim"><img height="30" src="https://simpleicons.org/icons/x.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rejah"><img height="30" src="https://simpleicons.org/icons/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/rejah.rehim"><img height="30" src="https://simpleicons.org/icons/facebook.svg"></a>&nbsp;&nbsp;
 <a href="https://keybase.io/rejah"><img height="30"  src="https://img.shields.io/keybase/pgp/rejah?label=GPG"></a>&nbsp;&nbsp;
